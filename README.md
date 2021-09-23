@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adundoida
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning in JOOUST
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on website development using php
 - 📫 How to reach me idaadundo@gmail.com
 
 <!---
